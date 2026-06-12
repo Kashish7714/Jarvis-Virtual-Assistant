@@ -198,7 +198,7 @@ If you find a security vulnerability, please follow the process described in [SE
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. 
 
 ---
 
@@ -207,5 +207,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 **Kashish Arya**
 B.Tech Computer Science | Meerut, Uttar Pradesh
 
-GitHub: [github.com/your-username](https://github.com/your-username)
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+GitHub: kashish7714
+LinkedIn : www.linkedin.com/in/kashish-arya-062249383
